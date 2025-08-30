@@ -1,7 +1,7 @@
 
 public class ExempleJava {
     public static void modifierValeur(int nombre) {
-        nombre = 100;
+        //nombre = nombre*10;
         System.out.println("Valeur dans la méthode : " + nombre);
     }
 
