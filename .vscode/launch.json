@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExempleStack",
+            "request": "launch",
+            "mainClass": "ExempleStack",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "AfficheDeplacer",
+            "request": "launch",
+            "mainClass": "AfficheDeplacer",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "BidouilleTableau",
+            "request": "launch",
+            "mainClass": "BidouilleTableau",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleAllocationMemoire",
+            "request": "launch",
+            "mainClass": "ExempleAllocationMemoire",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleStringBuilder",
+            "request": "launch",
+            "mainClass": "ExempleStringBuilder",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TrouverEntier",
+            "request": "launch",
+            "mainClass": "TrouverEntier",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Switch2",
+            "request": "launch",
+            "mainClass": "Switch2",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExpressionExample",
+            "request": "launch",
+            "mainClass": "SwitchExpressionExample",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExemple",
+            "request": "launch",
+            "mainClass": "SwitchExemple",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStringExemple",
+            "request": "launch",
+            "mainClass": "SwitchStringExemple",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "IfElseDemontration",
+            "request": "launch",
+            "mainClass": "IfElseDemontration",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "PremierPlusPetit100",
+            "request": "launch",
+            "mainClass": "PremierPlusPetit100",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceWhileIf",
+            "request": "launch",
+            "mainClass": "ExerciceWhileIf",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExercicelfMax2",
+            "request": "launch",
+            "mainClass": "ExercicelfMax2",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceIf1",
+            "request": "launch",
+            "mainClass": "ExerciceIf1",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleIf",
+            "request": "launch",
+            "mainClass": "ExempleIf",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceForFor",
+            "request": "launch",
+            "mainClass": "ExerciceForFor",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleForSimple",
+            "request": "launch",
+            "mainClass": "ExempleForSimple",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleWhile",
+            "request": "launch",
+            "mainClass": "ExempleWhile",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleBloc",
+            "request": "launch",
+            "mainClass": "ExempleBloc",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Bonhomme",
+            "request": "launch",
+            "mainClass": "Bonhomme",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestLogique",
+            "request": "launch",
+            "mainClass": "TestLogique",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestMethode",
+            "request": "launch",
+            "mainClass": "TestMethode",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestI",
+            "request": "launch",
+            "mainClass": "TestI",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestTn",
+            "request": "launch",
+            "mainClass": "TestTn",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestCercle",
+            "request": "launch",
+            "mainClass": "TestCercle",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Salutations",
+            "request": "launch",
+            "mainClass": "Salutations",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Multiple",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "PlusGrand",
+            "request": "launch",
+            "mainClass": "PlusGrand",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "PairImpair",
+            "request": "launch",
+            "mainClass": "PairImpair",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Somme",
+            "request": "launch",
+            "mainClass": "Somme",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestEtudiant",
+            "request": "launch",
+            "mainClass": "TestEtudiant",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Etudiant",
+            "request": "launch",
+            "mainClass": "Etudiant",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TstObj",
+            "request": "launch",
+            "mainClass": "TstObj",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Bloblo",
+            "request": "launch",
+            "mainClass": "Bloblo",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Essai",
+            "request": "launch",
+            "mainClass": "Essai",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TransformeurTexte",
+            "request": "launch",
+            "mainClass": "TransformeurTexte",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleMethode",
+            "request": "launch",
+            "mainClass": "ExempleMethode",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestPI",
+            "request": "launch",
+            "mainClass": "TestPI",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Voiture",
+            "request": "launch",
+            "mainClass": "Voiture",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "GestionCouleurs",
+            "request": "launch",
+            "mainClass": "GestionCouleurs",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Chiffres",
+            "request": "launch",
+            "mainClass": "Chiffres",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Majeur",
+            "request": "launch",
+            "mainClass": "Majeur",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TextBlockExample",
+            "request": "launch",
+            "mainClass": "TextBlockExample",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "RecordExample",
+            "request": "launch",
+            "mainClass": "RecordExample",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "VarExample",
+            "request": "launch",
+            "mainClass": "VarExample",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Exercicelf1",
+            "request": "launch",
+            "mainClass": "Exercicelf1",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExercicePyramid",
+            "request": "launch",
+            "mainClass": "ExercicePyramid",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleForSentinelle",
+            "request": "launch",
+            "mainClass": "ExempleForSentinelle",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceWhile3",
+            "request": "launch",
+            "mainClass": "ExerciceWhile3",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Afficher12345",
+            "request": "launch",
+            "mainClass": "Afficher12345",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleScanner",
+            "request": "launch",
+            "mainClass": "ExempleScanner",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Exemple1",
+            "request": "launch",
+            "mainClass": "Exemple1",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bienvenue",
+            "request": "launch",
+            "mainClass": "Bienvenue",
+            "projectName": "Cours INF_376f6a18"
+        }
+    ]
+}
