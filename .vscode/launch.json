@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbcdBuilder",
+            "request": "launch",
+            "mainClass": "AbcdBuilder",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ChaineAbcd",
+            "request": "launch",
+            "mainClass": "ChaineAbcd",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
             "name": "SommeFiltree",
             "request": "launch",
             "mainClass": "SommeFiltree",
