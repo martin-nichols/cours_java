@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestsFichiers",
+            "request": "launch",
+            "mainClass": "TestsFichiers",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "EcrireTexteabc",
+            "request": "launch",
+            "mainClass": "EcrireTexteabc",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "LireEntierTexte",
+            "request": "launch",
+            "mainClass": "LireEntierTexte",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "EcrireEntierTexte",
+            "request": "launch",
+            "mainClass": "EcrireEntierTexte",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
             "name": "EcrireEntier",
             "request": "launch",
             "mainClass": "EcrireEntier",
