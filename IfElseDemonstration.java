@@ -1,6 +1,6 @@
 class IfElseDemontration {
     public static void main(String[] args) {
-        int resultat = 88;
+        int resultat = 60;
         char note;
         if (resultat >= 90) {
             note = 'A';

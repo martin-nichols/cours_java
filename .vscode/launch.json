@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EcrireEntier",
+            "request": "launch",
+            "mainClass": "EcrireEntier",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "LireEntierEnOctets",
+            "request": "launch",
+            "mainClass": "LireEntierEnOctets",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "EcrireEntierEnOctets",
+            "request": "launch",
+            "mainClass": "EcrireEntierEnOctets",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestCopie",
+            "request": "launch",
+            "mainClass": "TestCopie",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "CopierFichier",
+            "request": "launch",
+            "mainClass": "CopierFichier",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "CompterOctetsFichier",
+            "request": "launch",
+            "mainClass": "CompterOctetsFichier",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
             "name": "AbcdBuilder",
             "request": "launch",
             "mainClass": "AbcdBuilder",

@@ -1,6 +1,9 @@
+import java.util.Arrays;
+
 public class ChaineAbcd {
     public static void main(String[] args) {
-        char[] lettres = {'a','b','c','d'};
+        char[] lettres = {'c','d','a','b'};
+        Arrays.sort(lettres);
         int total = 0;
 
         for (int i = 0; i < 4; i++) {
@@ -42,3 +45,44 @@ public class ChaineAbcd {
         System.out.println("Total: " + total);
     }
 }
+/* Sortie
+
+acaa
+acac
+acba
+acca
+accc
+baaa
+baac
+baba
+baca
+bacc
+caaa
+caac
+caba
+caca
+cacc
+cbaa
+cbac
+ccaa
+ccac
+ccba
+ccca
+cccc
+cccd
+ccdc
+ccdd
+cdcc
+cdcd
+cddc
+cddd
+dccc
+dccd
+dcdc
+dcdd
+ddcc
+ddcd
+dddc
+dddd
+Total: 44
+*/
