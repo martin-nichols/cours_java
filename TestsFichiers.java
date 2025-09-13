@@ -15,6 +15,7 @@ public class TestsFichiers {
             unPrintWriter.println(chaine);
             }
             unPrintWriter.println("Fin");
+            unPrintWriter.println("Martin, tu es le KING!");
             unFichier.close();
         } catch (Exception e) {
             System.err.println("Une erreur" + e.toString());

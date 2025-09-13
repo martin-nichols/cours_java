@@ -1,0 +1,12 @@
+10 "Cèdre en boule" 10.99
+20 "Sapin" 12.99
+40 "Épinette bleue" 25.99
+50 "Chêne" 22.99
+60 "Érable argenté" 15.99
+70 "Herbe à puce" 10.99
+80 "Poirier" 26.99
+81 "Catalpa" 25.99
+90 "Pommier" 15.99
+95 "Genévrier" 15.99
+11 "Bananier" 150.99
+300 "Patatier du Pôle Nord" 1000

@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExempleJFrameIncluantJPanelAnimeMondeAnime",
+            "request": "launch",
+            "mainClass": "Animation.ExempleJFrameIncluantJPanelAnimeMondeAnime",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleJFrameAvecClassesPourBotEtIti",
+            "request": "launch",
+            "mainClass": "ExempleJFrameAvecClassesPourBotEtIti",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceJFrameAvecPingPongBot",
+            "request": "launch",
+            "mainClass": "ExerciceJFrameAvecPingPongBot",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceJFrameAvecBotRebondissant",
+            "request": "launch",
+            "mainClass": "ExerciceJFrameAvecBotRebondissant",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleJFrameAnimationDoubleTampon",
+            "request": "launch",
+            "mainClass": "ExempleJFrameAnimationDoubleTampon",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleJFrameAvecAnimationRatee",
+            "request": "launch",
+            "mainClass": "ExempleJFrameAvecAnimationRatee",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "SudokuTN4",
+            "request": "launch",
+            "mainClass": "tn4_inf1220_martin_nichols.SudokuTN4",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "SudokuTN4",
+            "request": "launch",
+            "mainClass": "tn4_INF1220_Martin_Nichols.SudokuTN4",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "tn4_INF1220_Martin_Nichols.Main",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestFichOut",
+            "request": "launch",
+            "mainClass": "TestFichOut",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestIn",
+            "request": "launch",
+            "mainClass": "TestIn",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "WeatherForecast",
+            "request": "launch",
+            "mainClass": "WeatherForecast",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ImpactBoutismeManuel",
+            "request": "launch",
+            "mainClass": "ImpactBoutismeManuel",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "Dodo",
+            "request": "launch",
+            "mainClass": "Dodo",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "LireBufferedReader",
+            "request": "launch",
+            "mainClass": "LireBufferedReader",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "LireFichierFileChooser",
+            "request": "launch",
+            "mainClass": "LireFichierFileChooser",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "CreerFichierFileChooser",
+            "request": "launch",
+            "mainClass": "CreerFichierFileChooser",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleJAXPPlants",
+            "request": "launch",
+            "mainClass": "ExempleJAXPPlants",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleStreamTokenizer",
+            "request": "launch",
+            "mainClass": "ExempleStreamTokenizer",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
             "name": "TestsFichiers",
             "request": "launch",
             "mainClass": "TestsFichiers",
@@ -380,7 +513,12 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Cours INF_376f6a18"
+            "projectName": "Cours INF_376f6a18",
+            "args": [
+                "3",
+                "foo bar",
+                "--mode=test"
+            ]
         },
         {
             "type": "java",
