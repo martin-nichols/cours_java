@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestCercle",
+            "request": "launch",
+            "mainClass": "Question2.TestCercle",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "TestAnimaux",
+            "request": "launch",
+            "mainClass": "Question1.TestAnimaux",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
+            "name": "ExempleTableau",
+            "request": "launch",
+            "mainClass": "jeuSimple.ExempleTableau",
+            "projectName": "Cours INF_376f6a18"
+        },
+        {
+            "type": "java",
             "name": "ExempleJFrameIncluantJPanelAnimeMondeAnime",
             "request": "launch",
             "mainClass": "Animation.ExempleJFrameIncluantJPanelAnimeMondeAnime",
